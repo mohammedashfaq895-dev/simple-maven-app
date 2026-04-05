@@ -16,5 +16,6 @@ public class AppTest {
         assertEquals("Grade D", app.getGrade(55));
         assertEquals("Grade E", app.getGrade(45));
         assertEquals("Grade F", app.getGrade(30));
+
     }
 }

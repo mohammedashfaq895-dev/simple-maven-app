@@ -16,5 +16,6 @@ public class App {
     public static void main(String[] args) {
         App obj = new App();
         System.out.println(obj.getGrade(85));
+        print(" ")
     }
 }
